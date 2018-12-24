@@ -1,0 +1,2 @@
+Z:\Documents\Unity Projects\Origami\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+Z:\Documents\Unity Projects\Origami\App\Origami\Origami.csproj;x86
